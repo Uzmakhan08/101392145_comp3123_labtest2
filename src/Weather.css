@@ -1,6 +1,6 @@
 
 .weather-container {
-  background-color: #3498db; /* Set a background color */
+  background-color: #3498db; 
   color: white;
   padding: 20px;
   display: flex;
@@ -12,11 +12,11 @@
 }
 
 .weather-info {
-  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+  background-color: black(255, 255, 255, 0.8); 
   padding: 20px;
   border-radius: 10px;
   margin-top: 20px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
 }
 
 h1 {
@@ -29,7 +29,7 @@ h2 {
 }
 
 img {
-  width: 80px; /* Adjust the width of the weather icon */
+  width: 80px; 
   height: auto;
   margin-bottom: 10px;
 }
@@ -43,13 +43,13 @@ input {
 button {
   padding: 10px;
   font-size: 16px;
-  background-color: #2ecc71; /* Green button color */
-  color: white;
+  background-color: #2ecc71; 
+  color: black;
   border: none;
   border-radius: 5px;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #27ae60; /* Darker green on hover */
+  background-color: #27ae60; 
 }

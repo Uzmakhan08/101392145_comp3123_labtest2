@@ -1,7 +1,8 @@
 // WeatherClass.js
 import React, { Component } from 'react';
 import axios from 'axios';
-import Search from './Search'; // Import the Search component
+import Search from './Search'; 
+import './Weather.css';
 
 class WeatherClass extends Component {
   state = {
